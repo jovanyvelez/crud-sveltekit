@@ -1,6 +1,10 @@
-# sv
+# Superforms
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+Este proyecto es una replica del proyecto que hece el creador de superforms en youtube
+
+https://www.youtube.com/watch?v=nN72awrXsHE&pp=ygUWc3VwZXJmb3JtcyBzdmVsdGVraXQgMg%3D%3D
+
+
 
 ## Creating a project
 
