@@ -1,5 +1,5 @@
 <script>
-	/** @type {{data: import('./types').pageData}} */
+
 	import { superForm } from 'sveltekit-superforms';
 	let { data } = $props();
 	const { form, message, enhance, errors, delayed } = superForm(data.form, {
