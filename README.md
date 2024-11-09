@@ -1,4 +1,4 @@
-# Superforms
+# Tarea para los alumnos
 
 Este proyecto es una replica del proyecto que hace el creador de superforms en youtube
 
@@ -12,7 +12,7 @@ Pueden consultar también en https://superforms.rocks/
   -  renombrar el archivo .env_copy a .env
   -  Ejuctar bun dev
 
-  
+
 
 
 
